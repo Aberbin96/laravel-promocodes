@@ -1,15 +1,15 @@
 {
-    "name": "zgabievi/laravel-promocodes",
+    "name": "aberbin96/laravel-promocodes",
     "description": ":package_description",
     "license": "MIT",
     "authors": [
         {
             "name": "Zura Gabievi",
             "email": "zura.gabievi@email.com",
-            "homepage": "https://github.com/zgabievi"
+            "homepage": "https://github.com/aberbin96"
         }
     ],
-    "homepage": "https://github.com/zgabievi/laravel-promocodes",
+    "homepage": "https://github.com/aberbin96/laravel-promocodes",
     "keywords": [
         "Laravel",
         "Promocodes"
@@ -63,5 +63,7 @@
     "scripts": {
         "test": "./vendor/bin/pest",
         "phpstan": "./vendor/bin/phpstan analyse"
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
